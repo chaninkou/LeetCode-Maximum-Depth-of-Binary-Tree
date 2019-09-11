@@ -2,11 +2,12 @@ package maximumdepth;
 
 public class Main {
 	public static void main(String[] args) {
-		BinaryTree tree = new BinaryTree();
+		BinarySearchTree tree = new BinarySearchTree();
+		
 		
 		// 1,3,4,6,7,8,10,13,14
 		
-		tree.addTreeNode(2);
+		tree.addTreeNode(8);
 		tree.addTreeNode(3);
 		tree.addTreeNode(6);
 		tree.addTreeNode(10);
