@@ -1,4 +1,4 @@
-package maximumdepth;
+package leetcode104;
 
 class TreeNode {
 	int val;

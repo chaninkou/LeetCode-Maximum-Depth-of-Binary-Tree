@@ -1,4 +1,4 @@
-package maximumdepth;
+package leetcode104;
 
 public class FindMaximumDepthofBinaryTreeFunction {
     public int maxDepth(TreeNode root) {

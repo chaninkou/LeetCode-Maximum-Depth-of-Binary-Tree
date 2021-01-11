@@ -1,4 +1,4 @@
-package maximumdepth;
+package leetcode104;
 
 import java.util.ArrayList;
 import java.util.List;
